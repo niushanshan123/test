@@ -1,0 +1,4 @@
+/home/niu/桌面/test/build/CMakeFiles/demo.dir
+/home/niu/桌面/test/build/CMakeFiles/demo2.dir
+/home/niu/桌面/test/build/CMakeFiles/edit_cache.dir
+/home/niu/桌面/test/build/CMakeFiles/rebuild_cache.dir
